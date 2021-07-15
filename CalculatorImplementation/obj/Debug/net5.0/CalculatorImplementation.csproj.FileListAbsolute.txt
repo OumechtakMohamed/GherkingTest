@@ -1,0 +1,5 @@
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementation\obj\Debug\net5.0\CalculatorImplementation.csproj.AssemblyReference.cache
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementation\obj\Debug\net5.0\CalculatorImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementation\obj\Debug\net5.0\CalculatorImplementation.AssemblyInfoInputs.cache
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementation\obj\Debug\net5.0\CalculatorImplementation.AssemblyInfo.cs
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementation\obj\Debug\net5.0\CalculatorImplementation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\bin\Debug\net5.0\CalculatorImplementat.exe
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\bin\Debug\net5.0\CalculatorImplementat.deps.json
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\bin\Debug\net5.0\CalculatorImplementat.runtimeconfig.json
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\bin\Debug\net5.0\CalculatorImplementat.runtimeconfig.dev.json
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\bin\Debug\net5.0\CalculatorImplementat.dll
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\bin\Debug\net5.0\ref\CalculatorImplementat.dll
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\bin\Debug\net5.0\CalculatorImplementat.pdb
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\CalculatorImplementat.csproj.AssemblyReference.cache
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\CalculatorImplementat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\CalculatorImplementat.AssemblyInfoInputs.cache
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\CalculatorImplementat.AssemblyInfo.cs
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\CalculatorImplementat.csproj.CoreCompileInputs.cache
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\CalculatorImplementat.dll
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\ref\CalculatorImplementat.dll
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\CalculatorImplementat.pdb
+C:\Users\m.ou-mechtak\source\repos\TestProject8\CalculatorImplementat\obj\Debug\net5.0\CalculatorImplementat.genruntimeconfig.cache
